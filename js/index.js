@@ -1,3 +1,3 @@
-for (var i = 0; i <= 20; i++) {
+for (var i = 99; i <= 0; i = i -2) {
     document.write(i + '<br>');
 }
